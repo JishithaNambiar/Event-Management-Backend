@@ -10,6 +10,6 @@ Express framework used along with mongoose to connect with mongodb database. Bcr
 
 
 To run backend on your local system :
-JWT key has to be set 
-  1. $exports events_jwtPrivateKey = 'mySecretKey'
-  2. node index.js
+  1. npm init -y 
+  2. To set JWT key in terminal : $exports events_jwtPrivateKey = 'mySecretKey'
+  3. node index.js
