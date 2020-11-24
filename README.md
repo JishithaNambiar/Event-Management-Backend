@@ -7,7 +7,7 @@ Models folder has the schemas for different tables.
 Middelware folder contains functionality for authentication and authorization configured.
 Routes folder contain route handlers to get/post/update/delete customer and event data.
 Start folder has cors enabled.
-
+I've used Postman to test api
 
 
 To run backend on your local system :
